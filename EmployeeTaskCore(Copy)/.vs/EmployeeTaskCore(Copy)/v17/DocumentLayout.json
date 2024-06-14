@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6058269D-0CF7-42B3-86C3-FEE31FB71A87}|EmployeeTaskCore(Copy).csproj|c:\\users\\kanaka\\documents\\123 training folders\\dot net\\03. asp.net core\\employeetaskcore (copy)\\employeetaskcore(copy)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6058269D-0CF7-42B3-86C3-FEE31FB71A87}|EmployeeTaskCore(Copy).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6058269D-0CF7-42B3-86C3-FEE31FB71A87}|EmployeeTaskCore(Copy).csproj|c:\\users\\kanaka\\documents\\123 training folders\\dot net\\03. asp.net core\\employeetaskcore (copy)\\employeetaskcore(copy)\\repository\\efcore\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6058269D-0CF7-42B3-86C3-FEE31FB71A87}|EmployeeTaskCore(Copy).csproj|solutionrelative:repository\\efcore\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6058269D-0CF7-42B3-86C3-FEE31FB71A87}|EmployeeTaskCore(Copy).csproj|c:\\users\\kanaka\\documents\\123 training folders\\dot net\\03. asp.net core\\employeetaskcore (copy)\\employeetaskcore(copy)\\repository\\interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6058269D-0CF7-42B3-86C3-FEE31FB71A87}|EmployeeTaskCore(Copy).csproj|solutionrelative:repository\\interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6058269D-0CF7-42B3-86C3-FEE31FB71A87}|EmployeeTaskCore(Copy).csproj|c:\\users\\kanaka\\documents\\123 training folders\\dot net\\03. asp.net core\\employeetaskcore (copy)\\employeetaskcore(copy)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6058269D-0CF7-42B3-86C3-FEE31FB71A87}|EmployeeTaskCore(Copy).csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6058269D-0CF7-42B3-86C3-FEE31FB71A87}|EmployeeTaskCore(Copy).csproj|c:\\users\\kanaka\\documents\\123 training folders\\dot net\\03. asp.net core\\employeetaskcore (copy)\\employeetaskcore(copy)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6058269D-0CF7-42B3-86C3-FEE31FB71A87}|EmployeeTaskCore(Copy).csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6058269D-0CF7-42B3-86C3-FEE31FB71A87}|EmployeeTaskCore(Copy).csproj|c:\\users\\kanaka\\documents\\123 training folders\\dot net\\03. asp.net core\\employeetaskcore (copy)\\employeetaskcore(copy)\\repository\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6058269D-0CF7-42B3-86C3-FEE31FB71A87}|EmployeeTaskCore(Copy).csproj|solutionrelative:repository\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6058269D-0CF7-42B3-86C3-FEE31FB71A87}|EmployeeTaskCore(Copy).csproj|c:\\users\\kanaka\\documents\\123 training folders\\dot net\\03. asp.net core\\employeetaskcore (copy)\\employeetaskcore(copy)\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6058269D-0CF7-42B3-86C3-FEE31FB71A87}|EmployeeTaskCore(Copy).csproj|solutionrelative:controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6058269D-0CF7-42B3-86C3-FEE31FB71A87}|EmployeeTaskCore(Copy).csproj|c:\\users\\kanaka\\documents\\123 training folders\\dot net\\03. asp.net core\\employeetaskcore (copy)\\employeetaskcore(copy)\\data\\employeeprojectmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6058269D-0CF7-42B3-86C3-FEE31FB71A87}|EmployeeTaskCore(Copy).csproj|solutionrelative:data\\employeeprojectmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6058269D-0CF7-42B3-86C3-FEE31FB71A87}|EmployeeTaskCore(Copy).csproj|c:\\users\\kanaka\\documents\\123 training folders\\dot net\\03. asp.net core\\employeetaskcore (copy)\\employeetaskcore(copy)\\views\\manager\\removeemployeefromproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6058269D-0CF7-42B3-86C3-FEE31FB71A87}|EmployeeTaskCore(Copy).csproj|solutionrelative:views\\manager\\removeemployeefromproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\Repository\\EFCore\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\EFCore\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\Repository\\EFCore\\EmployeeDbContext.cs",
+              "RelativeToolTip": "Repository\\EFCore\\EmployeeDbContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:18:34.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\Repository\\Interface\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\Repository\\Interface\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:10:13.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:53:57.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T05:54:01.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T04:33:23.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RemoveEmployeeFromProject.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\Views\\Manager\\RemoveEmployeeFromProject.cshtml",
+              "RelativeDocumentMoniker": "Views\\Manager\\RemoveEmployeeFromProject.cshtml",
+              "ToolTip": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\Views\\Manager\\RemoveEmployeeFromProject.cshtml",
+              "RelativeToolTip": "Views\\Manager\\RemoveEmployeeFromProject.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T11:47:10.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeProjectMap.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\Data\\EmployeeProjectMap.cs",
+              "RelativeDocumentMoniker": "Data\\EmployeeProjectMap.cs",
+              "ToolTip": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\Data\\EmployeeProjectMap.cs",
+              "RelativeToolTip": "Data\\EmployeeProjectMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:46:56.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "Controllers\\ManagerController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAMwFwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:42:49.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\Repository\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\kanaka\\Documents\\123 Training Folders\\DOT NET\\03. ASP.NET CORE\\EmployeeTaskCore (copy)\\EmployeeTaskCore(Copy)\\Repository\\EmployeeService.cs",
+              "RelativeToolTip": "Repository\\EmployeeService.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAswIgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:43:00.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

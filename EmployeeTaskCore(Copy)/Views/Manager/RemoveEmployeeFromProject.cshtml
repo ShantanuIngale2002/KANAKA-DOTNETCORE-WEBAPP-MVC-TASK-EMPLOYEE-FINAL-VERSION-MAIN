@@ -1,0 +1,50 @@
+﻿@model CoreTaskEmployee.Models.EmployeeCompleteModel
+
+@{
+    ViewData["Title"] = "RemoveEmployeeFromProject";
+}
+
+<div class="mt-4 mb-2">
+    <h3 class="">Remove Employee From Project</h3>
+</div>
+
+<div>
+    <hr />
+    <h5>Sure to remove this employee from project ?</h5>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-4">
+            Employee Name
+        </dt>
+        <dd class = "col-sm-6">
+            @Html.DisplayFor(model => model.EmployeeId)
+        </dd>
+        <dt class = "col-sm-4">
+            Contact
+        </dt>
+        <dd class = "col-sm-6">
+            @Html.DisplayFor(model => model.EmployeeProject)
+        </dd>
+    </dl>
+    
+    <form asp-action="RemoveEmployeeFromProject">
+        <input type="hidden" asp-for="EmployeeId" />
+        <input type="hidden" asp-for="EmployeeProject" />
+        <input type="hidden" asp-for="EmployeeName" />
+        <input type="hidden" asp-for="EmployeeContact" />
+        <input type="hidden" asp-for="EmployeeBloodGroup" />
+        <input type="hidden" asp-for="EmployeeCity" />
+        <input type="hidden" asp-for="EmployeeCountry" />
+        <input type="hidden" asp-for="EmployeeState" />
+        <input type="hidden" asp-for="EmployeeRole" />
+        <input type="hidden" asp-for="EmployeePaidLeavesRemaining" />
+        <input type="hidden" asp-for="EmployeePaidLeavesTaken" />
+        <input type="hidden" asp-for="EmployeePaylossLeavesTaken" />
+        <input type="hidden" asp-for="EmployeeDOB" />
+        <input type="hidden" asp-for="EmployeeDOJ" />
+        <input type="submit" value="Remove" class="btn btn-danger" />
+    </form>
+</div>
+<div>
+    <a asp-controller="Manager" asp-action="ManagerProjectInformation" class="btn btn-info btn px-2 my-2">Cancel</a>
+</div>
